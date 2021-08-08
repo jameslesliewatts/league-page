@@ -22,7 +22,7 @@
         margin: 3em 0 4em;
         border-bottom: 1px solid #aaa;
         border-top: 1px solid #aaa;
-        box-shadow: 0 0 8px 4px #ccc;
+        /* box-shadow: 0 0 8px 4px #ccc; */
     }
 
     .infoSlot {
@@ -49,7 +49,8 @@
 
     .infoLabel {
         font-size: 0.7em;
-        color: #00316b;
+        /* color: #00316b; */
+        color: #00ceb8;
         font-weight: 700;
         margin-bottom: 1em;
         height: 30px;

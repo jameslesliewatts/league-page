@@ -117,7 +117,8 @@
 
     .philosophy {
         margin: 2em 1.5em 2em;
-        text-indent: 4em;
+        /* text-indent: 4em; */
+        padding: 0 4em;
     }
 
     .loading {
@@ -208,7 +209,7 @@
                 <span class="infoChild">Playing ff since '{viewManager.fantasyStart.toString().substr(2)}</span>
             {/if}
             <span class="seperator">|</span>
-            <span class="infoChild">{viewManager.preferredContact}</span>
+            <span class="infoChild">Contact by: {viewManager.preferredContact}</span>
             {#if viewManager.favoriteTeam}
                 <!-- favoriteTeam is an optional field -->
                 <span class="seperator">|</span>
@@ -245,7 +246,7 @@
         <p class="bio">{viewManager.bio}</p>
 
         <h3>Team Philosophy</h3>
-        <p class="philosophy">{viewManager.philosophy}</p>
+        <p class="philosophy">{@html viewManager.philosophy}</p>
     </div>
 
     {#await playerData}

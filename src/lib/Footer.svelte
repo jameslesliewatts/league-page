@@ -25,9 +25,9 @@
 	footer {
 		/* background-color: #f8f8f8; */
 		width: 100%;
-        display: block;
-        position: absolute;
-        bottom: 0;
+			display: block;
+			position: absolute;
+			bottom: 0;
 		z-index: 1;
 		border-top: 1px solid #a3bbd3;
 		padding: 30px 0 60px;
@@ -59,8 +59,11 @@
 		padding: 6px 10px;
 	}
 
-	.navLink:hover {
-		color: #920505;
+	a {
+		color: #777;
+	}
+	.navLink:hover, a:hover {
+		color: #5e72e4;
 	}
 </style>
 
