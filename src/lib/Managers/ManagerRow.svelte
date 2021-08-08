@@ -14,17 +14,17 @@ import { goto } from "$app/navigation";
         justify-content: left;
         align-items: center;
         padding: 1em 0;
-        background-color: #fff;
+        background-color: #00ceb8;
         margin: 0.5em 0;
         border-radius: 2em;
         border: 1px solid #ccc;
-        box-shadow: 0 0 6px 0 #bbb;
+        /* box-shadow: 0 0 6px 0 #bbb; */
         cursor: pointer;
     }
 
     .manager:hover {
         box-shadow: 0 0 10px 0 #999;
-        background-color: #eee;
+        background-color: #5e72e4;
     }
 
     .photo {
