@@ -78,7 +78,8 @@
 		display: block;
 		position: absolute;
 		z-index: 5;
-		background-color: #fff;
+		/* background-color: #fff; */
+		background-color: #5e72e4;
 		transition: all 0.4s;
 	}
 

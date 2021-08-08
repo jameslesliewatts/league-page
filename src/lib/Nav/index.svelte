@@ -21,7 +21,8 @@
 		/* background-color: #fff; */
 		position: relative;
 		z-index: 2;
-		border-bottom: 1px solid #00316b;
+		/* border-bottom: 1px solid #00316b; */
+		border-bottom: 1px solid #a3bbd3;
 		box-shadow: 0 0 8px 0 #00316b;
 	}
 
