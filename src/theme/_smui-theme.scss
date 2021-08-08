@@ -3,11 +3,25 @@
 @use '@material/theme/color-palette';
 
 // Svelte Colors!
+// @use '@material/theme/index' as theme with (
+//   $primary: #00316b,
+//   $secondary: #0082c3,
+//   $surface: #fff,
+//   $background: #fff,
+//   $error: color-palette.$red-900,
+// );
+$sl-dark: #181c28;
+$sl-seafoam: #00ceb8;
+$sl-purple: #5e72e4;
+$sl-dark-2: #102131;
+$sl-transparency: #3a465b40;
+$sl-transparency-rgba: rgba(58, 70, 91, 0.25);
+
 @use '@material/theme/index' as theme with (
-  $primary: #00316b,
-  $secondary: #0082c3,
-  $surface: #fff,
-  $background: #fff,
+  $primary: $sl-purple,
+  $secondary: $sl-seafoam,
+  $surface: $sl-dark,
+  $background: $sl-dark,
   $error: color-palette.$red-900,
 );
 
