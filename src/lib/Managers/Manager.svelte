@@ -243,7 +243,11 @@
             </Group>
         </div>
 
-        <p class="bio">{viewManager.bio}</p>
+        {#if viewManager.bio === 'Lorem ipsum...'}
+            <p class="bio">Please send your bio to James or let me know you don't want one.</p>
+        {:else}
+            <p class="bio">{viewManager.bio}</p>
+        {/if}
 
         <h3>Team Philosophy</h3>
         <p class="philosophy">{@html viewManager.philosophy}</p>
