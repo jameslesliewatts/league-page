@@ -18,7 +18,7 @@
     	margin: 0 auto;
 	}
 	nav {
-		background-color: #fff;
+		/* background-color: #fff; */
 		position: relative;
 		z-index: 2;
 		border-bottom: 1px solid #00316b;
