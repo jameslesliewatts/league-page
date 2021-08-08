@@ -24,7 +24,7 @@ import { goto } from "$app/navigation";
 
     .manager:hover {
         box-shadow: 0 0 10px 0 #999;
-        background-color: #5e72e4;
+        background-color: #181c28;
     }
 
     .photo {

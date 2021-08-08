@@ -31,6 +31,7 @@
 		display: block;
 		margin: 0 auto;
 		padding: 10px;
+		border-radius: 20px;
 	}
 
     .large {
@@ -53,7 +54,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="./badge.png" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="./danny-rojas.jpg" /></a>
 
 	<div class="large">
 		<NavLarge {tabs} bind:active={active} />
