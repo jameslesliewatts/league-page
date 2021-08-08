@@ -6,11 +6,11 @@ export const dynasty = false; // true for dynasty leagues, false for redraft and
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Yes.. her name was Mindy..</p>
+  <p>Yes... her name was Mindy...</p>
   <sub>[ regular studio lights go low, as red mood lighting rises ]</sub>
-  <p>I met her at Wendy’s.. with the pick-up line, “Hey, Mindy. You’re name kinda rhymes with this place.” Immediately, she wanted to get it on in the bathroom. But I got too much class for that. So we climbed up on a roof.. I pulled down my underpants seductively.. I pointed to my peepee.. and I said, “Do stuff to this.”</p>
+  <p>I met her at Wendy’s... with the pick-up line, “Hey, Mindy. You’re name kinda rhymes with this place.” Immediately, she wanted to get it on in the bathroom. But I got too much class for that. So we climbed up on a roof... I pulled down my underpants seductively... I pointed to my peepee... and I said, “Do stuff to this.”</p>
   <p>Then, a couple of security guards climbed up and told us to beat it. I decided to get coy. I said, “Why don’t you beat this?” That’s when one of them tasered my nads. I have to admit, I kinda leaned into it.</p>
-  <p>When I felt that electric charge go through my private particulars, I thought, “Me likee.” Then, things got pretty awesome. It was me, Mindy, two security guards, in a romantic four-way on a roof of a Wendy’s, and, oh, it was a killer. It’s a week later, and I still smell like a single cheese with no onions.. and Aquavelva. Oh, yeah!</p>
+  <p>When I felt that electric charge go through my private particulars, I thought, “Me likee.” Then, things got pretty awesome. It was me, Mindy, two security guards, in a romantic four-way on a roof of a Wendy’s, and, oh, it was a killer. It’s a week later, and I still smell like a single cheese with no onions... and Aquavelva. Oh, yeah!</p>
   <sub>[ moans orgasmically and leans over to Lawrence and Paula, who cower away in fear ]</sub>
   <br /><sub>[ regular studio lights return ]</sub>
 `;
